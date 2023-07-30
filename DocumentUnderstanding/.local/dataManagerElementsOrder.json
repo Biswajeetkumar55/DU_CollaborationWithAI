@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "collaboration_with_GPT_And_DocumentUnderstanding.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Input_Path&Sequence_1",
+        "DocumentType&Sequence_1",
+        "str_Input&Sequence_1",
+        "Question&Sequence_1",
+        "Answer_List&Sequence_1",
+        "boxOutput&Sequence_1",
+        "DOM&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Results&Sequence_1",
+        "dt&Sequence_1",
+        "ValidatedExtractedResults&Sequence_1",
+        "ExtractedResults&Sequence_1",
+        "ClassificationResult&Sequence_1",
+        "DocPath&Sequence_1",
+        "Taxonomy&Sequence_1",
+        "DigitalText&Sequence_1",
+        "DOM&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
