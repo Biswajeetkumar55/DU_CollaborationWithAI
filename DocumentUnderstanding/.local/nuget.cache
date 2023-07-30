@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Z26SfPmwtdRczNTDT++wiFPBcP3U9LMF+FwBu5pe+SYxW17ChFwv037x95qYW5l9geWhJdFrlV3vLZMKiG+bw==",
+  "dgSpecHash": "r6Cwpj9p/D8W/F2RJsUN7srerFY/6T0M7Dvq1MFt+KWooPGKhVcq5A6i6BSaD/HfBDC1O6Mg49xotljXwSn4UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ANZA\\Documents\\DocumentUnderstanding\\DocumentUnderstanding\\DocumentUnderstanding\\.local\\",
+  "projectFilePath": "C:\\Bishu\\DU_CollaborationWithAI\\DocumentUnderstanding\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\ANZA\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\ANZA\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
